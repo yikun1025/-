@@ -13,7 +13,9 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/yikun1025))
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://github.com/yikun1025)
 [![BLOG](https://img.shields.io/badge/-BLOG-FE7A16?style=for-the-badge&logo=blog&logoColor=white)](https://yikun1025.github.io)
-[![DOCUMENTATION](https://img.shields.io/badge/-DOCUMENTATION-212121?style=for-the-badge&logo=documentation&logoColor=white)]((https://blog.eny.li)](https://github.com/yikun1025/Documentation)https://github.com/yikun1025/Documentation))
+[![DOCUMENTATION](https://img.shields.io/badge/-DOCUMENTATION-212121?style=for-the-badge&logo=documentation&logoColor=white)]((https://github.com/yikun1025/Documentation)https://github.com/yikun1025/Documentation))
+
+<h1 align="center">:computer: 我的工作经历 :computer:</h1>
 
 <h1 align="center">🚀 我的技术栈 🚀</h1>
 
