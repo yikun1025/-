@@ -69,12 +69,6 @@
   <span>(*继续努力，编译器还没有写*)</span>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="assets/github-contribution-grid-snake.svg" />
-</picture>
-
-<img align="right" src="https://media.giphy.com/media/3o7qDTWX8bdsursNfa/giphy.gif" width="250">
+<img align="right" src="flappybird.gif" width="250">
 
 
