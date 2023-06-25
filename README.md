@@ -67,9 +67,6 @@
     <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yikun1025&hide=Jupyter%20Notebook,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Most Used Languages" style="margin-right: 20px;" />
   </div>
   <span>(*公司组织仓库无法展示.)</span>
-  <br><br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yikun1025&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Contribution Graph" style="margin-top: 25px;" />
-  <br><br>
 </div>
 
 
