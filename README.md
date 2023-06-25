@@ -69,4 +69,10 @@
   <span>(*公司组织仓库无法展示.)</span>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="assets/github-contribution-grid-snake.svg" />
+</picture>
+
 
