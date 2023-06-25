@@ -181,7 +181,7 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=ffffff)
 ![SciChart](https://img.shields.io/badge/-SciChart-000000?style=for-the-badge&logo=scichart&logoColor=ffffff)
 
-## 💬 网络通信 & 网络RTC交流
+## 💬 网络通信
 
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=ffffff)
 ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=ffffff)
@@ -198,7 +198,7 @@
   <div style="display: flex; justify-content: center; align-items: center;">
     <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yikun1025&hide=Jupyter%20Notebook,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Most Used Languages" style="margin-right: 20px;" />
   </div>
-  <span>继续努力，编译器还没有写</span>
+  <span>:muscle:继续努力，编译器还没有写</span>
 </div>
 
 <h1 align="center">我的js小游戏</h1>
