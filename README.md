@@ -55,4 +55,21 @@
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
 
+<h1 align="center">⚡ Stats ⚡</h1>
+
+<div align="center">
+  <div style="display: flex; justify-content: center;">
+    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=yikun1025&theme=react&border=61dafb&hide_border=true" alt="Total Contributions" style="margin-right: 15px;" />
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=yikun1025&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="Stats" style="margin-left: 15px;" />
+  </div>
+  <br><br>
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yikun1025&hide=Jupyter%20Notebook,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Most Used Languages" style="margin-right: 20px;" />
+  </div>
+  <span>(*Does not include private and organization repositories.)</span>
+  <br><br>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yikun1025&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Contribution Graph" style="margin-top: 25px;" />
+  <br><br>
+</div>
+
 
