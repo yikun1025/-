@@ -7,7 +7,7 @@
 - 💬 请随时联系我的手机以及邮件，我会很乐意解答您的疑问
 - 🐾 我一直乐于参加编程开发比赛，并独自尝试有趣的编程项目
 
-### Connect with me:
+### 联系我:
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jianfang1025@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/yikun1025))
@@ -22,7 +22,7 @@
 
 这些是我目前仍在学习以及曾经工作过的编程语言:
 
-## 🖥️ Programming Languages
+## 🖥️ 编程语言
 
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
@@ -33,7 +33,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
 
-## 🌐 Web Frameworks & Libraries
+## 🌐 Web 框架 & 库
 
 
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
