@@ -39,7 +39,7 @@
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/-SpringCloud-764ABC?style=for-the-badge&logo=springcloud&logoColor=ffffff)
 ![Spring Webflux](https://img.shields.io/badge/-SpringWebflux-61DAFB?style=for-the-badge&logo=springwebflux&logoColor=ffffff)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-nginx-764ABC?style=for-the-badge&logo=nginx&logoColor=ffffff)
 ![JDBC](https://img.shields.io/badge/-jdbc-764ABC?style=for-the-badge&logo=jdbc&logoColor=ffffff)
 ![MyBatis](https://img.shields.io/badge/-mybatis-5DA3FA?style=for-the-badge&logo=mybatis&logoColor=ffffff)
