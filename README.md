@@ -15,7 +15,11 @@
 [![BLOG](https://img.shields.io/badge/-BLOG-FE7A16?style=for-the-badge&logo=blog&logoColor=white)](https://yikun1025.github.io)
 [![DOCUMENTATION](https://img.shields.io/badge/-DOCUMENTATION-212121?style=for-the-badge&logo=documentation&logoColor=white)]((https://github.com/yikun1025/Documentation)https://github.com/yikun1025/Documentation))
 
-<h1 align="center">:computer: 我的工作经历 :computer:</h1>
+<h1 align="center">📝 我的工作经历 📝</h1>
+
+- **中科软公司**
+  - 负责保险业务的代码业务开发，负责⽼系统架构的重构优化，负责maven版本适配以及jre版本更新，负责浏览
+器适配，编写⾃动化测试案例。
 
 <h1 align="center">🚀 我的技术栈 🚀</h1>
 
