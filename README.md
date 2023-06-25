@@ -69,7 +69,7 @@
   <span>继续努力，编译器还没有写</span>
 </div>
 
-我的js小游戏
+## 我的js小游戏
 <img align="center" src="flappybird.gif" width="250">
 
 
