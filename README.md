@@ -36,8 +36,8 @@
 ## 🌐 Web Frameworks & Libraries
 
 
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-764ABC?style=for-the-badge&logo=springboot&logoColor=ffffff)
-![Spring Cloud](https://img.shields.io/badge/-SpringCloud-764ABC?style=for-the-badge&logo=springcloud&logoColor=ffffff)
+![Spring Boot](https://img.shields.io/badge/-Spring-Boot-764ABC?style=for-the-badge&logo=springboot&logoColor=ffffff)
+![Spring Cloud](https://img.shields.io/badge/-Spring-Cloud-764ABC?style=for-the-badge&logo=springcloud&logoColor=ffffff)
 ![Nginx](https://img.shields.io/badge/-nginx-764ABC?style=for-the-badge&logo=nginx&logoColor=ffffff)
 ![JDBC](https://img.shields.io/badge/-jdbc-764ABC?style=for-the-badge&logo=jdbc&logoColor=ffffff)
 ![MyBatis](https://img.shields.io/badge/-mybatis-5DA3FA?style=for-the-badge&logo=mybatis&logoColor=ffffff)
