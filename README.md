@@ -36,7 +36,7 @@
 ## 🌐 Web Frameworks & Libraries
 
 
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-764ABC?style=for-the-badge&logo=springboot&logoColor=ffffff)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/-SpringCloud-764ABC?style=for-the-badge&logo=springcloud&logoColor=ffffff)
 ![Spring Webflux](https://img.shields.io/badge/-SpringWebflux-61DAFB?style=for-the-badge&logo=springwebflux&logoColor=ffffff)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff)
