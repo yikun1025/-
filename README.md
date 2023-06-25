@@ -7,7 +7,7 @@
 - 💬 请随时联系我的手机以及邮件，我会很乐意解答您的疑问
 - 🐾 我一直乐于参加编程开发比赛，并独自尝试有趣的编程项目
 
-<h1 align="center">### Connect with me:
+### Connect with me:
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jianfang1025@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/yikun1025))
