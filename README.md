@@ -70,7 +70,7 @@
 </div>
 
 <h1 align="center">我的js小游戏</h1>
-<img align="center" src="flappybird.gif" width="250">
+<img align="center" src="flappybird.gif" width="400">
 
 
 
