@@ -66,7 +66,7 @@
   <div style="display: flex; justify-content: center; align-items: center;">
     <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yikun1025&hide=Jupyter%20Notebook,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Most Used Languages" style="margin-right: 20px;" />
   </div>
-  <span>(*公司组织仓库无法展示.)</span>
+  <span>(*继续努力，编译器还没有写*)</span>
 </div>
 
 <picture>
