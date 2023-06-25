@@ -75,4 +75,6 @@
   <img alt="github-snake" src="assets/github-contribution-grid-snake.svg" />
 </picture>
 
+<img align="right" src="https://media.giphy.com/media/3o7qDTWX8bdsursNfa/giphy.gif" width="250">
+
 
