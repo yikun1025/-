@@ -67,7 +67,6 @@
     <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yikun1025&hide=Jupyter%20Notebook,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Most Used Languages" style="margin-right: 20px;" />
   </div>
   <span>继续努力，编译器还没有写</span>
-</div>
 
 <h1 align="center">我的js小游戏
 <img align="center" src="flappybird.gif" width="250">
