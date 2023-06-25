@@ -39,8 +39,6 @@
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/SpringCloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Webflux](https://img.shields.io/badge/SpringWebflux-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
-![Nginx](https://img.shields.io/badge/-nginx-764ABC?style=for-the-badge&logo=nginx&logoColor=ffffff)
 ![JDBC](https://img.shields.io/badge/-jdbc-764ABC?style=for-the-badge&logo=jdbc&logoColor=ffffff)
 ![MyBatis](https://img.shields.io/badge/-mybatis-5DA3FA?style=for-the-badge&logo=mybatis&logoColor=ffffff)
 ![MAVEN](https://img.shields.io/badge/-Maven-CA4245?style=for-the-badge&logo=maven&logoColor=ffffff)
@@ -54,6 +52,142 @@
 ![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=materialui&logoColor=ffffff)
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
+
+## 🧪 数据分析& 人工智能
+
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=ffffff)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=ffffff)
+![SciKit Learn](https://img.shields.io/badge/-SciKit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=ffffff)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=ffffff)
+![pandas](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=ffffff)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=ffffff)
+
+## 🎥 计算机视觉 & 图像处理
+
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=ffffff)
+![FFmpeg](https://img.shields.io/badge/-FFmpeg-000000?style=for-the-badge&logo=ffmpeg&logoColor=ffffff)
+![Pydicom](https://img.shields.io/badge/-Pydicom-000000?style=for-the-badge&logo=pydicom&logoColor=ffffff)
+![Pillow](https://img.shields.io/badge/-Pillow-000000?style=for-the-badge&logo=pillow&logoColor=ffffff)
+
+## 🗄️ 数据库
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=ffffff)
+![Prisma](https://img.shields.io/badge/-Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=ffffff)
+
+## 🔄 版本控制
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff)
+
+## 📝 文本编辑器 & IDEs
+
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=ffffff)
+![CLion](https://img.shields.io/badge/-CLion-000000?style=for-the-badge&logo=clion&logoColor=ffffff)
+![Atom](https://img.shields.io/badge/-DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=ffffff)
+![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=ffffff)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=ffffff)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=ffffff)
+
+## 🛠️ 构建工具 & 包管理
+
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=ffffff)
+![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=ffffff)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=ffffff)
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=ffffff)
+![Homebrew](https://img.shields.io/badge/-Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=ffffff)
+![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=ffffff)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=ffffff)
+
+## 🔌 web服务 
+
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![Nginx](https://img.shields.io/badge/-nginx-764ABC?style=for-the-badge&logo=nginx&logoColor=ffffff)
+
+## 🐧 操作系统
+
+![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=ffffff)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff)
+
+## 🌐 API & 网络安全
+
+![Axios](https://img.shields.io/badge/-Axios-61DAFB?style=for-the-badge&logo=axios&logoColor=ffffff)
+![cURL](https://img.shields.io/badge/-cURL-000000?style=for-the-badge&logo=curl&logoColor=ffffff)
+![Requests](https://img.shields.io/badge/-Requests-000000?style=for-the-badge&logo=python&logoColor=ffffff)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ffffff)
+![Swagger](https://img.shields.io/badge/-Swagger-1679A7?style=for-the-badge&logo=swagger&logoColor=ffffff)
+
+## 🔐 安全认证
+
+![Passport](https://img.shields.io/badge/-Passport-34E27A?style=for-the-badge&logo=passport&logoColor=ffffff)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=ffffff)
+
+## ☁️ 云服务
+
+![Amazon EC2](https://img.shields.io/badge/-Amazon_EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=ffffff)
+![Amazon Route 53](https://img.shields.io/badge/-Amazon_Route_53-232F3E?style=for-the-badge&logo=amazonaws&logoColor=ffffff)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=ffffff)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=ffffff)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=ffffff)
+
+## 🚀 CICD & 代码控制
+
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=ffffff)
+![jenkins](https://img.shields.io/badge/-jenkins-4E9BCD?style=for-the-badge&logo=jenkins&logoColor=ffffff)
+
+## 📋 Project Management & Collaboration
+
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=ffffff)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=ffffff)
+![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=ffffff)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff)
+![Google Meet](https://img.shields.io/badge/-Google_Meet-4285F4?style=for-the-badge&logo=googlemeet&logoColor=ffffff)
+![Google Calendar](https://img.shields.io/badge/-Google_Calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=ffffff)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=ffffff)
+![Google Drive](https://img.shields.io/badge/-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=ffffff)
+![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=ffffff)
+![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff)
+![Skype](https://img.shields.io/badge/-Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=ffffff)
+![Dropbox](https://img.shields.io/badge/-Dropbox-0061FF?style=for-the-badge&logo=dropbox&logoColor=ffffff)
+
+## 🧪 测试 & 调试
+
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=ffffff)
+![Redux DevTools](https://img.shields.io/badge/-Redux_DevTools-764ABC?style=for-the-badge&logo=redux&logoColor=ffffff)
+
+## 🐳 容器
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)
+![Docker Compose](https://img.shields.io/badge/-Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)
+
+## ⚙️ 进程管理
+
+![nodemon](https://img.shields.io/badge/-nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=ffffff)
+![PM2](https://img.shields.io/badge/-PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=ffffff)
+
+## 📖 Markdown & 文档
+
+![MarkDown](https://img.shields.io/badge/-MarkDown-000000?style=for-the-badge&logo=markdown&logoColor=ffffff)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=ffffff)
+![apiDoc](https://img.shields.io/badge/-apiDoc-00B0E8?style=for-the-badge&logo=apidoc&logoColor=ffffff)
+![Docusaurus](https://img.shields.io/badge/-Docusaurus-2E8555?style=for-the-badge&logo=docusaurus&logoColor=ffffff)
+
+## 📈 绘图 & 可视化
+
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=ffffff)
+![Open3D](https://img.shields.io/badge/-Open3D-000000?style=for-the-badge&logo=open3d&logoColor=ffffff)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=ffffff)
+![SciChart](https://img.shields.io/badge/-SciChart-000000?style=for-the-badge&logo=scichart&logoColor=ffffff)
+
+## 💬 网络通信 & 网络RTC交流
+
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=ffffff)
+![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=ffffff)
+
 
 <h1 align="center">⚡ Stats ⚡</h1>
 
