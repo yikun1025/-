@@ -139,20 +139,18 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=ffffff)
 ![jenkins](https://img.shields.io/badge/-jenkins-4E9BCD?style=for-the-badge&logo=jenkins&logoColor=ffffff)
 
-## 📋 Project Management & Collaboration
+## 📋 项目管理 & 协同合作
 
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=ffffff)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=ffffff)
 ![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=ffffff)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff)
-![Google Meet](https://img.shields.io/badge/-Google_Meet-4285F4?style=for-the-badge&logo=googlemeet&logoColor=ffffff)
-![Google Calendar](https://img.shields.io/badge/-Google_Calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=ffffff)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=ffffff)
-![Google Drive](https://img.shields.io/badge/-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=ffffff)
+![飞书](https://img.shields.io/badge/-飞书-4285F4?style=for-the-badge&logo=feishu&logoColor=ffffff)
 ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=ffffff)
 ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff)
 ![Skype](https://img.shields.io/badge/-Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=ffffff)
-![Dropbox](https://img.shields.io/badge/-Dropbox-0061FF?style=for-the-badge&logo=dropbox&logoColor=ffffff)
+![向日葵](https://img.shields.io/badge/-向日葵-0061FF?style=for-the-badge&logo=xiangrikui&logoColor=ffffff)
 
 ## 🧪 测试 & 调试
 
