@@ -15,3 +15,19 @@
 [![DOCUMENTATION](https://img.shields.io/badge/-DOCUMENTATION-212121?style=for-the-badge&logo=documentation&logoColor=white)]((https://blog.eny.li)](https://github.com/yikun1025/Documentation)https://github.com/yikun1025/Documentation))
 
 <h1 align="center">🚀 我的技术栈 🚀</h1>
+
+[![shieldio](https://img.shields.io/badge/Technology%20Stack-2023-blueviolet.svg)](https://github.com/adrianosferreira)
+[![Profile last updated](https://img.shields.io/github/last-commit/0x00000024/0x00000024/main?label=Last%20updated&style=flat)]((https://github.com/yikun1025/resume/commits))
+
+这些是我目前仍在学习以及曾经工作过的编程语言:
+
+## 🖥️ Programming Languages
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=ffffff)
+![Shell Script](https://img.shields.io/badge/-Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=ffffff)
+![AppleScript](https://img.shields.io/badge/-AppleScript-grey?style=for-the-badge&logo=apple&logoColor=ffffff)
