@@ -10,4 +10,4 @@
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jianfang1025@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/yikun1025))
-[![Wechat](https://img.shields.io/badge/Wechat-7BB32E?logo=wechat&logoColor=white)](([https://github.com/yikun1025](https://github.com/yikun1025/blogResearch/blob/main/%E5%BE%AE%E4%BF%A1jpeg)https://github.com/yikun1025/blogResearch/blob/main/%E5%BE%AE%E4%BF%A1jpeg))
+[![Wechat](https://img.shields.io/badge/Wechat-7BB32E?logo=wechat&logoColor=white)]((https://github.com/yikun1025/blogResearch/blob/main/%E5%BE%AE%E4%BF%A1jpeg))
