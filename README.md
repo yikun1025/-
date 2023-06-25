@@ -35,16 +35,17 @@
 
 ## 🌐 Web Frameworks & Libraries
 
+
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-764ABC?style=for-the-badge&logo=springboot&logoColor=ffffff)
+![Spring Cloud](https://img.shields.io/badge/-SpringCloud-764ABC?style=for-the-badge&logo=springcloud&logoColor=ffffff)
+![Nginx](https://img.shields.io/badge/-nginx-764ABC?style=for-the-badge&logo=nginx&logoColor=ffffff)
+![JDBC](https://img.shields.io/badge/-jdbc-764ABC?style=for-the-badge&logo=jdbc&logoColor=ffffff)
+![MyBatis](https://img.shields.io/badge/-mybatis-5DA3FA?style=for-the-badge&logo=mybatis&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
 ![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=ffffff)
 ![React Navigation](https://img.shields.io/badge/-React_Navigation-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
 ![React Toastify](https://img.shields.io/badge/-React_Toastify-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
 ![React Transition Group](https://img.shields.io/badge/-React_Transition_Group-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-764ABC?style=for-the-badge&logo=springboot&logoColor=ffffff)
-![Spring Cloud](https://img.shields.io/badge/-Redux_Persist-764ABC?style=for-the-badge&logo=springcloud&logoColor=ffffff)
-![Nginx](https://img.shields.io/badge/-nginx-764ABC?style=for-the-badge&logo=nginx&logoColor=ffffff)
-![JDBC](https://img.shields.io/badge/-jdbc-764ABC?style=for-the-badge&logo=jdbc&logoColor=ffffff)
-![MyBatis](https://img.shields.io/badge/-mybatis-5DA3FA?style=for-the-badge&logo=mybatis&logoColor=ffffff)
 ![Lodash](https://img.shields.io/badge/-Lodash-61DAFB?style=for-the-badge&logo=lodash&logoColor=ffffff)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff)
