@@ -18,7 +18,7 @@
 <h1 align="center">🚀 我的技术栈 🚀</h1>
 
 [![shieldio](https://img.shields.io/badge/Technology%20Stack-2023-blueviolet.svg)](https://github.com/adrianosferreira)
-[![Profile last updated](https://img.shields.io/github/last-commit/yikun1025/yikun1025/main?label=Last%20updated&style=flat)]((https://github.com/yikun1025/resume/commits))
+[![Profile last updated](https://img.shields.io/github/last-commit/yikun1025/resume/main?label=Last%20updated&style=flat)]((https://github.com/yikun1025/resume/commits))
 
 这些是我目前仍在学习以及曾经工作过的编程语言:
 
