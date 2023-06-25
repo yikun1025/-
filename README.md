@@ -203,7 +203,6 @@
 
 <h1 align="center">我的js小游戏</h1>
 <p style="text-align:center;"><img src="flappybird.gif" alt="Logo"></p>
-<img align="center" src="flappybird.gif" width="400">
 
 
 
